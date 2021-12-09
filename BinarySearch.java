@@ -65,7 +65,7 @@ final class BinarySearch {
         return binarySearch(userArray, userNumber, lowIndex, middle - 1);
 
       } else {
-        return middle; // integer found!!    
+        return middle; // integer found!! 
 
       }
     }
